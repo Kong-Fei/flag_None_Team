@@ -5,7 +5,7 @@
 - [CTFShow](https://ctf.show/login?next=%2Fchallenges%3F)
 - [CTFHub](https://www.ctfhub.com/#/skilltree)
 
-## 2. 比赛篇
+## 2. 近期比赛
 ### 2022.10月
 - [2022HNCTF新生赛](https://www.ctfer.vip/contest)
 - [0xGame](https://0xgame.h4ck.fun/home)
